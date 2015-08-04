@@ -1,0 +1,11 @@
+{
+	"1":{
+		"host":"http://bbs.byr.cn",
+		"main":"http://bbs.byr.cn/default?_uid=guest"
+	},
+
+	"2":{
+		"host":"http://www.newsmth.net",
+		"main":"http://www.newsmth.net/nForum/#!mainpage"
+	}
+}
