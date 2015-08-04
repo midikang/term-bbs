@@ -18,6 +18,7 @@
     "request": "^2.60.0",
     "term-grid": "^0.1.7",
     "term-list": "^0.2.1",
-    "underscore": "^1.8.3"
+    "underscore": "^1.8.3",
+    "iconv-lite": "~0.4.11"
   }
 }
